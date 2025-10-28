@@ -1,57 +1,72 @@
-<!-- Profile README for bruceleethehacker -->
+<!-- Dark Hacker-style Profile README for bruceleethehacker -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there!+👋+I'm+Bruce+Lee+The+Hacker;Ethical+Hacker+%7C+Pentester+%7C+Cybersecurity+Researcher;Open+Source+Contributor+%7C+Tech+Enthusiast" alt="Typing SVG" />
+<!-- ASCII banner -->
 
----
-
-### 🧠 About Me
-💻 **Ethical Hacker & Security Researcher** passionate about uncovering vulnerabilities and securing the digital world.  
-⚡ Experienced in **penetration testing**, **network defense**, and **exploit development**.  
-🎯 Always learning, always hacking — in ethical ways, of course.  
+> 🔒 **Ethical Use Only** — I focus on defensive research, pentesting with permission, and open-source tools for education and defense.
 
 ---
 
-### 🛠️ Tech & Tools I Use
-![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)
-![Python](https://img.shields.io/badge/Code-Python-yellow?logo=python)
-![Bash](https://img.shields.io/badge/Shell-Bash-green?logo=gnu-bash)
-![Metasploit](https://img.shields.io/badge/Framework-Metasploit-red?logo=metasploit)
-![Burp Suite](https://img.shields.io/badge/Tool-Burp_Suite-orange?logo=burp-suite)
-![Wireshark](https://img.shields.io/badge/Tool-Wireshark-lightblue?logo=wireshark)
-![Docker](https://img.shields.io/badge/DevOps-Docker-blue?logo=docker)
-![Git](https://img.shields.io/badge/Version-Git-black?logo=git)
+<!-- Typing SVG (dark-friendly color) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&size=24&pause=1000&color=00FF99&center=true&width=700&lines=Bruce+Lee+The+Hacker.;Ethical+Hacker+%7C+Pentester+%7C+Security+Researcher" alt="Bruce - Ethical Hacker" />
+</p>
 
 ---
 
-### 🧩 Featured Projects
-🔐 [**Network Vulnerability Scanner**](https://github.com/bruceleethehacker/network-scanner) – Automated network scanning & vulnerability detection tool.  
-🕵️ [**Phishing Simulation Toolkit**](https://github.com/bruceleethehacker/phish-toolkit) – Custom phishing framework for awareness training.  
-⚙️ [**Red Team Scripts**](https://github.com/bruceleethehacker/redteam-scripts) – Collection of offensive security automation scripts.  
+## 🖤 Quick Bio
+`bruceleethehacker` — Security researcher focusing on intrusion simulation, offense-aware defense, and secure-by-design engineering. I publish safe tools, write writeups, and train orgs to improve security posture.
 
 ---
 
-### 📊 GitHub Analytics
-![Bruce's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruceleethehacker&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruceleethehacker&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=bruceleethehacker&theme=radical)
+## 🛠️ Tools & Tech (dark badges)
+![Linux](https://img.shields.io/badge/Linux-%2312100E.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%2312100E.svg?style=for-the-badge&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-%23FF3B30.svg?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp](https://img.shields.io/badge/Burp_Suite-%23FF7A18.svg?style=for-the-badge&logo=portswigger&logoColor=white)
 
 ---
 
-### 🧠 Learning & Interests
-- Cyber Threat Intelligence (CTI)  
-- Malware Analysis & Reverse Engineering  
-- Secure Coding & Exploit Mitigation  
-- AI in Cybersecurity  
+## 🔭 Featured Projects
+- 🔐 **Network Scanner** — `bruceleethehacker/network-scanner` — automated asset discovery & vuln triage (readme + safe config).
+- 🧩 **Phish-Sim** — `bruceleethehacker/phish-toolkit` — training toolkit (contains safe demo pages and analytics).
+- ⚙️ **Red Team Utils** — `bruceleethehacker/redteam-scripts` — automation helpers for lab environments.
+
+> Tip: Link project READMEs to clear legal/usage disclaimers and safe, lab-only configs.
 
 ---
 
-### 🌐 Connect With Me
-💼 [LinkedIn](https://linkedin.com/in/bruceleethehacker)  
-🐦 [Twitter/X](https://x.com/bruceleethehacker)  
-🌎 [Personal Website](https://bruceleethehacker.dev)  
-📧 [Email Me](mailto:bruceleethehacker@example.com)
+## 📊 Dark GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bruceleethehacker&show_icons=true&theme=dark" alt="Bruce's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruceleethehacker&layout=compact&theme=dark" alt="Top languages" />
+</p>
 
 ---
 
-> “The key to immortality is first living a life worth remembering.” — *Bruce Lee*
+## 🧾 Recent Writings / CTI Notes
+- [How I safely build a vuln lab](https://github.com/bruceleethehacker/vuln-lab-guide) — step-by-step lab provisioning (containers + isolation).
+- [Pentest writeup: vulnerable-webapp-2024](https://github.com/bruceleethehacker/vulnerable-webapp-writeups) — educational writeups with fixes.
 
+---
+
+## 🎯 Goals & Focus
+- Improve defensive detection through adversary emulation  
+- Publish reproducible, lab-safe PoCs and defensive signatures  
+- Teach secure development and threat-hunting techniques
+
+---
+
+## 📬 Contact & Presence
+- 🕸️ Website: `https://bruceleethehacker.dev`  
+- 🐦 X/Twitter: `https://x.com/bruceleethehacker`  
+- 💼 LinkedIn: `https://linkedin.com/in/bruceleethehacker`  
+- 📧 Email: `bruceleethehacker@example.com` (use for responsible disclosure only)
+
+---
+
+## ✦ Terminal Footer (copyable)
+```bash
+echo "If you see something, say something. Responsible disclosure welcomed: bruceleethehacker@example.com"
