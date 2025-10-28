@@ -37,7 +37,7 @@ I am a professional, ethical hacker with a dark neon edge. I test systems, break
 
 ## 📬 Connect
 <p align="center">
-  <a href="https://linkedin.com/in/bruceleethehacker"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://[linkedin.com/in/bruceleethehacker](https://www.linkedin.com/in/veda-nishanth-50a006395/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/bruceleethehacker"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://bruceleethehacker.dev"><img src="https://img.shields.io/badge/Website-00FFFF?style=for-the-badge&logo=vercel&logoColor=black"/></a>
   <a href="mailto:responsible-disclosure@bruceleethehacker.dev"><img src="https://img.shields.io/badge/Email-FF6C37?style=for-the-badge&logo=gmail&logoColor=white"/></a>
