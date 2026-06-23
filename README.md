@@ -293,7 +293,7 @@ jobs:
 
 [![GitHub](https://img.shields.io/badge/GitHub-bruceleethehacker-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bruceleethehacker)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Veda%20Nishanth-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veda-nishanth-50a006395)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brucelee@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:obitouchiha00143@gmail.com.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-00FF41?style=for-the-badge&logo=firefox&logoColor=white)](https://bruceleethehacker.dev)
 
 </div>
