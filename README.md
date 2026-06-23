@@ -159,7 +159,6 @@ class BruceLeeTheHacker:
 
 <div align="center">
 
-> **Setup required:** Add the GitHub Action below to generate your snake animation automatically.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bruceleethehacker/bruceleethehacker/output/github-snake-dark.svg" />
@@ -170,7 +169,6 @@ class BruceLeeTheHacker:
 </div>
 
 <details>
-<summary>⚙️ Click to see the GitHub Action needed for the snake animation</summary>
 
 ```yaml
 # .github/workflows/snake.yml
@@ -204,11 +202,11 @@ jobs:
 
 <div align="center">
 
-[![Bruce Lee Cyber Defense](https://github-readme-stats.vercel.app/api/pin/?username=bruceleethehacker&repo=bruce-lee-cyber-defense&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&icon_color=00FFFF&border_color=00FF41)](https://github.com/bruceleethehacker/bruce-lee-cyber-defense)
+[![Bruce Lee Cyber Defense](https://github-readme-stats.vercel.app/api/pin/?username=bruceleethehacker&repo=BLCD-RealTime-IDS&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&icon_color=00FFFF&border_color=00FF41)](https://github.com/bruceleethehacker/BLCD-RealTime-IDS)
 &nbsp;
-[![Digital Behavioral Auth](https://github-readme-stats.vercel.app/api/pin/?username=bruceleethehacker&repo=digital-behavioral-auth&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&icon_color=00FFFF&border_color=00FF41)](https://github.com/bruceleethehacker/digital-behavioral-auth)
+[![Digital Behavioral Auth](https://github-readme-stats.vercel.app/api/pin/?username=bruceleethehacker&repo=dba&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&icon_color=00FFFF&border_color=00FF41)](https://github.com/bruceleethehacker/dba)
 
-[![PRECRIME](https://github-readme-stats.vercel.app/api/pin/?username=bruceleethehacker&repo=precrime&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&icon_color=00FFFF&border_color=00FF41)](https://github.com/bruceleethehacker/precrime)
+[![PRECRIME](https://github-readme-stats.vercel.app/api/pin/?username=bruceleethehacker&repo=PRECRIME&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&icon_color=00FFFF&border_color=00FF41)](https://github.com/bruceleethehacker/PRECRIME)
 
 </div>
 
