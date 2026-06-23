@@ -203,7 +203,7 @@ jobs:
 <div align="center">
 
 [![Bruce Lee Cyber Defense](https://github-readme-stats.vercel.app/api/pin/?username=bruceleethehacker&repo=BLCD-RealTime-IDS&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&icon_color=00FFFF&border_color=00FF41)](https://github.com/bruceleethehacker/BLCD-RealTime-IDS)
-&nbsp;
+
 [![Digital Behavioral Auth](https://github-readme-stats.vercel.app/api/pin/?username=bruceleethehacker&repo=dba&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&icon_color=00FFFF&border_color=00FF41)](https://github.com/bruceleethehacker/dba)
 
 [![PRECRIME](https://github-readme-stats.vercel.app/api/pin/?username=bruceleethehacker&repo=PRECRIME&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&icon_color=00FFFF&border_color=00FF41)](https://github.com/bruceleethehacker/PRECRIME)
