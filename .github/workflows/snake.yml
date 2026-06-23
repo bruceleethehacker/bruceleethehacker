@@ -6,17 +6,17 @@ jobs:
   snake:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Needed to push the generated files to the output branch
+      contents: write
     steps:
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk@v3
         with:
-          # Automatically fetches the owner of the repository
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: bruceleethehacker
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
         env:
-          # The token belongs down here in the env block
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: crazy-max/ghaction-github-pages@v3
