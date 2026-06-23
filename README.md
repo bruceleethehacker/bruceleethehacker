@@ -1,17 +1,23 @@
 <div align="center">
 
 <!-- ANIMATED BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:00FF41,100:0D1117&height=200&section=header&text=BRUCE%20LEE%20THE%20HACKER&fontSize=42&fontColor=00FF41&fontAlignY=40&desc=Cybersecurity%20Researcher%20%7C%20Ethical%20Hacker%20%7C%20AI%20Developer&descAlignY=62&descColor=00FFFF&animation=twinkling&stroke=00FF41&strokeWidth=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,40:0D0D0D,100:8A2BE2&height=220&section=header&text=BRUCE%20LEE%20THE%20HACKER&fontSize=42&fontColor=00FFFF&fontAlignY=45&desc=Cybersecurity%20Researcher%20%7C%20Ethical%20Hacker%20%7C%20AI%20Developer&descAlignY=65&descColor=00FF41&animation=fadeIn&stroke=8A2BE2&strokeWidth=2" width="100%" />
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&width=600&lines=%3E+Initializing+Cyber+Defense+System...;%3E+Ethical+Hacker+%7C+Threat+Hunter;%3E+AI+Security+Researcher;%3E+Network+Intrusion+Detection+Expert;%3E+Building+the+Future+of+Cybersecurity" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&width=650&lines=%3E+Initializing+Cyber+Defense+System...;%3E+Ethical+Hacker+%7C+Threat+Hunter;%3E+AI+Security+Researcher;%3E+Network+Intrusion+Detection+Expert;%3E+PRECRIME+%7C+Predictive+Cybersecurity;%3E+Building+the+Future+of+Cybersecurity" alt="Typing SVG" />
 
-<!-- VISITOR BADGE -->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=bruceleethehacker.bruceleethehacker&left_color=black&right_color=00FF41&left_text=Visitors" />
+<br/>
+
+<!-- LIVE VISITOR & FOLLOWER COUNTERS -->
+<a href="https://github.com/bruceleethehacker">
+  <img src="https://komarev.com/ghpvc/?username=bruceleethehacker&label=PROFILE+VIEWS&color=00FF41&style=for-the-badge" />
+</a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=bruceleethehacker&label=PROFILE+VIEWS&color=00ff41&style=flat" />
+<a href="https://github.com/bruceleethehacker?tab=followers">
+  <img src="https://img.shields.io/github/followers/bruceleethehacker?label=FOLLOWERS&style=for-the-badge&color=00FF41&labelColor=0D1117&logo=github&logoColor=00FF41" />
+</a>
 &nbsp;
-<img src="https://img.shields.io/github/followers/bruceleethehacker?label=Followers&style=flat&color=00FF41&labelColor=0D1117&logo=github" />
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF41?style=for-the-badge&logo=statuspage&logoColor=white" />
 
 </div>
 
@@ -20,23 +26,34 @@
 <!-- HACKER TERMINAL -->
 <div align="center">
 
-```bash
-💻 INITIALIZING CYBER TERMINAL...
-════════════════════════════════════════════════════════
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=580&lines=%F0%9F%92%BB+INITIALIZING+CYBER+TERMINAL...;Loading+security+modules...;Authenticating+user...;%E2%9C%93+ACCESS+GRANTED+%E2%80%94+Welcome%2C+Bruce+Lee" alt="Terminal Boot" />
 
-root@brucelee:~$ whoami
+</div>
 
-  Name      : Bruce Lee The Hacker
-  Role      : Ethical Hacker
-  Focus     : Cybersecurity & Artificial Intelligence
-  Specialty : Intrusion Detection Systems
-  OS        : Kali Linux
-  Status    : 🟢 Securing the Digital World
+<div align="center">
 
-root@brucelee:~$ sudo access --granted
-  ✓ Access Granted — Welcome, Bruce Lee
-
-════════════════════════════════════════════════════════
+```
+╔══════════════════════════════════════════════════════════╗
+║  💻  C Y B E R   T E R M I N A L   v2.0                 ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  root@brucelee:~$ whoami                                 ║
+║                                                          ║
+║  ┌─────────────────────────────────────────────────┐    ║
+║  │  Name      :  Bruce Lee The Hacker              │    ║
+║  │  Role      :  Ethical Hacker                    │    ║
+║  │  Focus     :  Cybersecurity & AI                │    ║
+║  │  Specialty :  Intrusion Detection Systems       │    ║
+║  │  OS        :  Kali Linux                        │    ║
+║  │  Location  :  India  🌐                         │    ║
+║  │  Status    :  🟢  Securing the Digital World    │    ║
+║  └─────────────────────────────────────────────────┘    ║
+║                                                          ║
+║  root@brucelee:~$ sudo access --level=root               ║
+║  ✓  Access Granted  —  Clearance Level: ROOT             ║
+║                                                          ║
+║  root@brucelee:~$ _                                      ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -47,16 +64,16 @@ root@brucelee:~$ sudo access --granted
 
 ```python
 class BruceLeeTheHacker:
-    name       = "Bruce Lee"
+    name       = "Bruce Lee (Veda Nishanth)"
     alias      = "bruceleethehacker"
     role       = ["Ethical Hacker", "AI Security Researcher", "Developer"]
     focus      = ["Network Intrusion Detection", "Behavioral Auth", "AI Security"]
-    currently  = "Building next-gen cybersecurity tools powered by AI"
+    currently  = "Building PRECRIME — AI-powered predictive cybersecurity"
     learning   = ["Advanced Malware Analysis", "LLM Security", "Red Teaming"]
     ask_me     = ["Python", "IDS/IPS", "ML for Security", "Network Analysis"]
-    
+
     def mission(self):
-        return "Defend. Detect. Disrupt."
+        return "Predict. Prevent. Protect."
 ```
 
 - 🛡 Passionate about **Cybersecurity** and **Ethical Hacking**
@@ -67,7 +84,7 @@ class BruceLeeTheHacker:
 
 ---
 
-## 🛡️ Cybersecurity Arsenal
+## ⚔️ Cybersecurity Arsenal
 
 <div align="center">
 
@@ -82,9 +99,9 @@ class BruceLeeTheHacker:
 <img src="https://img.shields.io/badge/Nmap-4B275F?style=for-the-badge&logo=nmap&logoColor=white" />
 <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
 <img src="https://img.shields.io/badge/Network%20Packet%20Analysis-00FF41?style=for-the-badge&logo=wireshark&logoColor=black" />
-<img src="https://img.shields.io/badge/Intrusion%20Detection%20Systems-FF0000?style=for-the-badge&logo=shield&logoColor=white" />
+<img src="https://img.shields.io/badge/Intrusion%20Detection%20Systems-FF0000?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Penetration%20Testing-8A2BE2?style=for-the-badge&logo=hackthebox&logoColor=white" />
-<img src="https://img.shields.io/badge/Digital%20Behavioral%20Auth-00FFFF?style=for-the-badge&logo=fingerprint&logoColor=black" />
+<img src="https://img.shields.io/badge/Digital%20Behavioral%20Auth-00FFFF?style=for-the-badge&logoColor=black" />
 
 ### 🤖 AI & Machine Learning
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
@@ -138,9 +155,11 @@ class BruceLeeTheHacker:
 
 ---
 
-## 🐍 Contributions
+## 🐍 Contribution Snake
 
 <div align="center">
+
+> **Setup required:** Add the GitHub Action below to generate your snake animation automatically.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bruceleethehacker/bruceleethehacker/output/github-snake-dark.svg" />
@@ -149,6 +168,35 @@ class BruceLeeTheHacker:
 </picture>
 
 </div>
+
+<details>
+<summary>⚙️ Click to see the GitHub Action needed for the snake animation</summary>
+
+```yaml
+# .github/workflows/snake.yml
+name: Generate Snake Animation
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
 
 ---
 
@@ -160,7 +208,7 @@ class BruceLeeTheHacker:
 &nbsp;
 [![Digital Behavioral Auth](https://github-readme-stats.vercel.app/api/pin/?username=bruceleethehacker&repo=digital-behavioral-auth&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&icon_color=00FFFF&border_color=00FF41)](https://github.com/bruceleethehacker/digital-behavioral-auth)
 
-[![AI Stock Prediction](https://github-readme-stats.vercel.app/api/pin/?username=bruceleethehacker&repo=ai-stock-prediction&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&icon_color=00FFFF&border_color=00FF41)](https://github.com/bruceleethehacker/ai-stock-prediction)
+[![PRECRIME](https://github-readme-stats.vercel.app/api/pin/?username=bruceleethehacker&repo=precrime&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&icon_color=00FFFF&border_color=00FF41)](https://github.com/bruceleethehacker/precrime)
 
 </div>
 
@@ -194,28 +242,33 @@ class BruceLeeTheHacker:
 
 ---
 
-### 🔮 Precrime — Digital Behavioral Authentication System
+### 🔮 PRECRIME: AI-Based Predictive and Preventive Cybersecurity System
 
-> **Advanced precrime detection** — identifies threats before they happen by monitoring user behavior throughout the entire session.
+> **Abstract (IEEE Style):** PRECRIME is an intelligent, AI-driven cybersecurity framework designed for predictive threat analytics and proactive intrusion prevention in modern networked environments. The system leverages machine learning and behavioral intelligence to transition cybersecurity from a reactive defense model to a **predictive and preventive security paradigm**.
 
 ```
-🧠 System Goal
-───────────────────────────────────────────────────────
-Move beyond traditional auth (passwords, OTPs, biometrics)
-and implement a continuous security layer that evaluates
-user behavior in real time — enabling early detection of
-malicious intent or compromised access.
+╔══════════════════════════════════════════════════════════════╗
+║  🧠  SYSTEM OBJECTIVE                                        ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  To minimize attack surface exposure by identifying          ║
+║  malicious intent PRIOR to full exploitation — enabling      ║
+║  preemptive mitigation actions and strengthening overall      ║
+║  cyber defense resilience.                                   ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-| Core Feature | Status |
+| Core Functional Feature | Status |
 |:--|:--:|
-| Keystroke Dynamics Analysis | ✅ |
-| Mouse Movement Tracking | ✅ |
-| Real-time Session Monitoring | ✅ |
-| User Behavioral Profiling | ✅ |
-| AI-based Anomaly Detection | ✅ |
-| Pre-attack Risk Scoring System | ✅ |
-| Suspicious Activity Prediction | ✅ |
+| AI-based cyber threat prediction (supervised + unsupervised ML) | ✅ |
+| Real-time network traffic analysis for early-stage attack detection | ✅ |
+| Behavioral anomaly detection via continuous system activity profiling | ✅ |
+| Dynamic risk scoring of incoming and ongoing sessions | ✅ |
+| Zero-day attack pattern approximation via historical threat correlation | ✅ |
+| Adaptive intrusion prevention with automated response triggering | ✅ |
+| Continuous learning framework for evolving threat intelligence | ✅ |
+| Multi-layer security decision engine (benign vs malicious classification) | ✅ |
 
 **🛡 Use Cases:**
 - Insider threat detection
@@ -223,19 +276,6 @@ malicious intent or compromised access.
 - Real-time intrusion mitigation
 - High-security system monitoring
 - Financial & enterprise security systems
-
----
-
-### 📈 AI Stock Prediction System
-
-> Machine Learning-driven market forecasting with time-series analysis.
-
-| Feature | Status |
-|:--|:--:|
-| ML Time-Series Forecasting | ✅ |
-| Market Data Analysis | ✅ |
-| LSTM Neural Network | ✅ |
-| Financial AI Integration | ✅ |
 
 ---
 
@@ -253,8 +293,8 @@ malicious intent or compromised access.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruce%20Lee-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bruceleethehacker)
-[![Twitter](https://img.shields.io/badge/Twitter-@bruceleehacker-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bruceleehacker)
+[![GitHub](https://img.shields.io/badge/GitHub-bruceleethehacker-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bruceleethehacker)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Veda%20Nishanth-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veda-nishanth-50a006395)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brucelee@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-00FF41?style=for-the-badge&logo=firefox&logoColor=white)](https://bruceleethehacker.dev)
 
@@ -271,13 +311,13 @@ malicious intent or compromised access.
 ║                                                      ║
 ║   "The quieter you become,                           ║
 ║    the more you are able to hear."                   ║
-║                             — Bruce Lee              ║
+║                                  — Bruce Lee         ║
 ║                                                      ║
-║   root@brucelee:~$ Stay curious. Stay safe. 🛡       ║
+║   root@brucelee:~$ Predict. Prevent. Protect. 🛡     ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:8A2BE2,100:000000&height=120&section=footer" width="100%" />
 
 </div>
