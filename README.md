@@ -14,15 +14,6 @@ I am a professional, ethical hacker with a dark neon edge. I test systems, break
 
 ---
 
-## 🔥 Featured Projects
-| Project | Description | Link |
-|--------|-------------|------|
-| **VulnHunter** | Safe, automated recon + triage tool | [GitHub](https://github.com/bruceleethehacker/vulnhunter) |
-| **PhishLab** | Awareness & phishing simulation framework | [GitHub](https://github.com/bruceleethehacker/phishlab) |
-| **RedOps** | Offensive automation scripts for isolated labs | [GitHub](https://github.com/bruceleethehacker/redops-scripts) |
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bruceleethehacker&show_icons=true&theme=dark&hide_border=true" height="160"/>
