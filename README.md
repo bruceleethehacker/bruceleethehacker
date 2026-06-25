@@ -286,6 +286,13 @@ jobs:
 </div>
 
 ---
+🖤 BruceLeeTheHacker
+
+<p align="center">
+<img src="assets/banner.svg" alt="BruceLeeTheHacker Animated Banner" />
+</p>
+
+---
 
 ## 🌐 Connect With Me
 
