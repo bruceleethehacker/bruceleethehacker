@@ -279,9 +279,29 @@ jobs:
 
 ## 🏆 Trophies
 
+## 📊 GitHub Performance Dashboard
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=bruceleethehacker&theme=matrix&no-frame=true&column=7&margin-w=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bruceleethehacker&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bruceleethehacker&theme=chartreuse-dark&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=bruceleethehacker&theme=github-dark&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=bruceleethehacker&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
