@@ -64,7 +64,7 @@
 
 ```python
 class BruceLeeTheHacker:
-    name       = "Bruce Lee (Veda Nishanth)"
+    name       = "Veda Nishanth (Bruce Lee)"
     alias      = "bruceleethehacker"
     role       = ["Ethical Hacker", "AI Security Researcher", "Developer"]
     focus      = ["Network Intrusion Detection", "Behavioral Auth", "AI Security"]
