@@ -40,7 +40,7 @@
 ║  root@brucelee:~$ whoami                                 ║
 ║                                                          ║
 ║  ┌─────────────────────────────────────────────────┐    ║
-║  │  Name      :  Bruce Lee The Hacker              │    ║
+║  │  Name      :  Veda Nishanth                      │    ║
 ║  │  Role      :  Ethical Hacker                    │    ║
 ║  │  Focus     :  Cybersecurity & AI                │    ║
 ║  │  Specialty :  Intrusion Detection Systems       │    ║
