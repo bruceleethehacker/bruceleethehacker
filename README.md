@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · bruceleethehacker</sub></p>
 <h1>VEDA NISHANTH</h1>
-<h2>Backend or systems engineer</h2>
+<h2>CYBERSECURITY PROFESSIONAL</h2>
 <p>Building intelligent cybersecurity systems with AI • Ethical Hacker • ML Engineer • Full-Stack Developer • Turning ideas into secure, scalable solutions.</p>
 <p><strong>● Building and sharing work in public</strong></p>
 
