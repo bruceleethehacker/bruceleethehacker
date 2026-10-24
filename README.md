@@ -109,5 +109,3 @@
 <td width="38%" valign="middle" align="right"><a href="https://github.com/bruceleethehacker">GitHub</a><br /><a href="https://www.bruceleethehacker.in">Website</a></td>
 </tr>
 </table>
-
-<p align="center"><sub>VEDA NISHANTH · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
